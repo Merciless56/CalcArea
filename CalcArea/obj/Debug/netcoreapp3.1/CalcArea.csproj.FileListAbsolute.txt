@@ -1,0 +1,16 @@
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\bin\Debug\netcoreapp3.1\CalcArea.exe
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\bin\Debug\netcoreapp3.1\CalcArea.deps.json
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\bin\Debug\netcoreapp3.1\CalcArea.runtimeconfig.json
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\bin\Debug\netcoreapp3.1\CalcArea.runtimeconfig.dev.json
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\bin\Debug\netcoreapp3.1\CalcArea.dll
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\bin\Debug\netcoreapp3.1\CalcArea.pdb
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\bin\Debug\netcoreapp3.1\Area.dll
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\bin\Debug\netcoreapp3.1\Area.pdb
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\obj\Debug\netcoreapp3.1\CalcArea.csprojAssemblyReference.cache
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\obj\Debug\netcoreapp3.1\CalcArea.AssemblyInfoInputs.cache
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\obj\Debug\netcoreapp3.1\CalcArea.AssemblyInfo.cs
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\obj\Debug\netcoreapp3.1\CalcArea.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\obj\Debug\netcoreapp3.1\CalcArea.csproj.CopyComplete
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\obj\Debug\netcoreapp3.1\CalcArea.dll
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\obj\Debug\netcoreapp3.1\CalcArea.pdb
+C:\Users\Aziz\source\repos\CalcArea\CalcArea\obj\Debug\netcoreapp3.1\CalcArea.genruntimeconfig.cache
